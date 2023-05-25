@@ -3,3 +3,4 @@ this is line 2.
 this is line 3.
 this is line 1 added by b1.
 this is line 2 added by b1.
+this is line 1 added by b2.
